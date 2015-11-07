@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingAsyncResultWCF.Application", "MessagingAsyncResultWCF.Application\MessagingAsyncResultWCF.Application.csproj", "{293DD97F-9E39-4ED1-AF4C-8434E20854BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingAsyncResultWCF.ConsoleApp", "MessagingAsyncResultWCF.ConsoleApp\MessagingAsyncResultWCF.ConsoleApp.csproj", "{E394DF15-A4F8-453E-9915-28FC98B37A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293DD97F-9E39-4ED1-AF4C-8434E20854BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293DD97F-9E39-4ED1-AF4C-8434E20854BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293DD97F-9E39-4ED1-AF4C-8434E20854BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293DD97F-9E39-4ED1-AF4C-8434E20854BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E394DF15-A4F8-453E-9915-28FC98B37A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E394DF15-A4F8-453E-9915-28FC98B37A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E394DF15-A4F8-453E-9915-28FC98B37A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E394DF15-A4F8-453E-9915-28FC98B37A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

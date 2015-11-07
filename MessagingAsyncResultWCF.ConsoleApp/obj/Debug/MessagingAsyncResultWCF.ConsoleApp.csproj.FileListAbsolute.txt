@@ -1,0 +1,8 @@
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\bin\Debug\MessagingAsyncResultWCF.ConsoleApp.exe.config
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\bin\Debug\MessagingAsyncResultWCF.ConsoleApp.exe
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\bin\Debug\MessagingAsyncResultWCF.ConsoleApp.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\obj\Debug\MessagingAsyncResultWCF.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\obj\Debug\MessagingAsyncResultWCF.ConsoleApp.exe
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\obj\Debug\MessagingAsyncResultWCF.ConsoleApp.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\bin\Debug\MessagingAsyncResultWCF.Application.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\MessagingAsyncResultWCF\MessagingAsyncResultWCF.ConsoleApp\bin\Debug\MessagingAsyncResultWCF.Application.pdb
